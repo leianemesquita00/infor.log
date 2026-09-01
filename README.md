@@ -1,2 +1,7 @@
 # infor.log
-Atividade Prática: GitHub Web
+## Sobre
+Atividade prática de versionamento via GitHub Web.
+ 
+## Tecnologias
+* Git
+* GitHub Web
